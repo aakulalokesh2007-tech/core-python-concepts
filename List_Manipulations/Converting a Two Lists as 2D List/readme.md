@@ -1,0 +1,1 @@
+A utility script demonstrating how to safely merge two 1D lists into a 2D list (matrix). It includes error handling to ensure data alignment and utilizes Python's built-in zip() function for optimal performance
