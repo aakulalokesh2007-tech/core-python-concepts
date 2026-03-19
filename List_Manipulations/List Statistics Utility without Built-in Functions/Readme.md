@@ -1,0 +1,5 @@
+* A fundamental exercise in list iteration and state tracking. This script manually scans a list to identify the maximum and minimum values, and calculates the average by accumulating a running total, bypassing Python's built-in statistical functions to demonstrate core algorithmic logic
+
+* Demonstrates the "accumulator pattern" and linear scanning to manually calculate the minimum, maximum, and average of a numerical list from scratch.
+
+* Add manual calculation for list max, min, and average
