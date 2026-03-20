@@ -1,4 +1,4 @@
-🚗 Parking Lot Capacity Simulator : 
+* 🚗 Parking Lot Capacity Simulator : 
 🟢 Easy / 🟡 Medium (Interactive Implementation)
 Topics: Array/List Manipulation, State Tracking, Input Validation, 
 Simulation🎯 OverviewThis project is an interactive terminal application that simulates a dynamic parking lot management system. 
