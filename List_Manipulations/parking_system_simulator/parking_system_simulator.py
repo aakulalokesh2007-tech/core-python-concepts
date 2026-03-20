@@ -30,7 +30,7 @@ a=[b,c,d]
 total_cars=sum(a)
 while True:
     e=input(f"number of cars are there enter less than {total_cars} ")
-    if e.isdigit() and int(e)<total_cars:
+    if e.isdigit() and int(e)<=total_cars:
         e=int(e)
         break
     else:
