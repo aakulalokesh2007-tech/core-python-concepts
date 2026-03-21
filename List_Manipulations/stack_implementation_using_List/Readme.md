@@ -1,0 +1,1 @@
+* A foundational implementation of a Stack (LIFO) data structure using Python lists. Includes built-in safety checks to prevent memory overflow (pushing beyond capacity) and underflow errors (popping from an empty stack).
