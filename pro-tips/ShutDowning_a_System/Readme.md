@@ -1,0 +1,1 @@
+* I wrote a simple two-line script using os.system("shutdown /s /t 1") that instantly shuts down a Windows PC. It is a very basic script, but seeing code interact with the physical hardware state of my machine is incredibly cool (just make sure to save your work before testing it! 😅).
