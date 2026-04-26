@@ -33,6 +33,25 @@ This directory contains practice files and mini-projects that explore the follow
 
 Each `.py` file in this folder is a standalone script focusing on a specific concept. 
 
+Here is the exact menu for this list of folders! 
+
+Just like last time, **do not use a copy button**. Just use your mouse to highlight the text from "##" down to the last project, right-click, copy, and paste it straight into your GitHub file!
+
+***
+
+## 📂 Python List Projects Menu
+
+Click on any of the projects below to view the code:
+
+1. [Basic Operations with List](Basic_Operations_with_List)
+2. [Converting a Two Lists as 2D List](Converting%20a%20Two%20Lists%20as%202D%20List)
+3. [List Statistics Utility without Built-in Functions](List%20Statistics%20Utility%20without%20Built-in%20Functions)
+4. [Sorting a 2D List In Different Index Element](Sorting_a_2D_List_In_Different_Index_Element)
+5. [Sorting a List Without a Build-in Function](Sorting_a_List_Without_a_Build-in_Function)
+6. [Parking System Simulator](parking_system_simulator)
+7. [Stack Implementation using List](stack_implementation_using_List)
+
+
 To run any script, navigate to this folder in your terminal and execute:
 ```bash
 python script_name.py
