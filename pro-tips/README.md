@@ -18,7 +18,7 @@ This snippet demonstrates how to use it to:
 To test any of these snippets on your own machine, simply clone the repo and run the specific file using Python 3.8 or higher:
 
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/python-pro-tips.git](https://github.com/YOUR_GITHUB_USERNAME/python-pro-tips.git)
+git clone [https://github.com/YOUR_GITHUB_USERNAME/python-pro-tips.git](https://github.com/YOUR_GITHUB_USERNAME/python-pro-tips.git) '''
 
 
 
