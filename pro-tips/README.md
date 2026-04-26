@@ -22,11 +22,11 @@ git clone [https://github.com/YOUR_GITHUB_USERNAME/python-pro-tips.git](https://
 
 
 
-## 📂 Project Menu
+📂 Project Menu
 
 Click on any of the projects below to view the code:
 
-1. [QR Code Generator](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/pro-tips/QR_Code_Genarater)
+1. [QR_Code_Generator](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/pro-tips/QR_Code_Genarater)
 2. [System Shutdown Script](ShutDowning_a_System/)
 3. [Text Animation](Txt_animation/)
 4. [Update a Dictionary](Update_a_Dictionary/)
