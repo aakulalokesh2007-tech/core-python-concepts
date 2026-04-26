@@ -19,5 +19,20 @@ To test any of these snippets on your own machine, simply clone the repo and run
 
 ```bash
 git clone [https://github.com/YOUR_GITHUB_USERNAME/python-pro-tips.git](https://github.com/YOUR_GITHUB_USERNAME/python-pro-tips.git)
-cd python-pro-tips
-python walrus_operator.py
+
+
+
+## 📂 Project Menu
+
+Click on any of the projects below to view the code:
+
+* [QR Code Generator](./QR_Code_Genarater)
+* [System Shutdown Script](./ShutDowning_a_System)
+* [Text Animation](./Txt_animation)
+* [Update a Dictionary](./Update_a_Dictionary)
+* [Find Country with Phone Number](./find%20country%20with%20phone%20number)
+* [Sum of Digits](./sum%20of%20digits)
+* [Walrus Operator](./walrus_operator)
+
+
+
