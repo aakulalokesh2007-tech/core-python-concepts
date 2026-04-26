@@ -55,3 +55,5 @@ Click on any of the projects below to view the code:
 To run any script, navigate to this folder in your terminal and execute:
 ```bash
 python script_name.py
+
+```
