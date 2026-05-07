@@ -12,10 +12,8 @@ Inside this folder, you will find scripts that generate popular shapes such as:
 * Diamonds
 * Number & Alphabet Grids
 
-### 🎨 Example Output
-```text
-    *
-   ***
-  *****
- *******
-*********
+
+#INDEX 🗂
+* 1.[Diamond_Shape](Patterns/Diamond_Shape)
+* 2.[Star_Pyramid](Patterns/Star_Pyramid)
+* 3.[reverse_alphabet_pattern](Patterns/reverse_alphabet_pattern)
