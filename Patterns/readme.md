@@ -14,6 +14,6 @@ Inside this folder, you will find scripts that generate popular shapes such as:
 
 
 #INDEX 🗂
-* 1.[Diamond_Shape](Patterns/Diamond_Shape)
-* 2.[Star_Pyramid](Patterns/Star_Pyramid)
-* 3.[reverse_alphabet_pattern](Patterns/reverse_alphabet_pattern)
+* 1.[Diamond_Shape](Diamond_Shape)
+* 2.[Star_Pyramid](Star_Pyramid)
+* 3.[reverse_alphabet_pattern](reverse_alphabet_pattern)
