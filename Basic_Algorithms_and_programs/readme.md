@@ -10,46 +10,19 @@ Redirector Link
 * [Fibonacci Series](./Fibnocci_Series)
 * [Grade Checker](./Grade%20Checker)
 * [Bubble Sort](./bubble_sort)
+* [Decimal to Binary Converter](./Decimal_To_Binary)
+* [File Handling](./File_Handling)
+* ([./The Prime Number Checker.](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/The%20Prime%20Number%20Checker.))
+* [Binary Search in Lists](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/binary_search_in_Lists)
+* [Count Occurrences](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/count_occurrences)
+* [Finding Max in Numbers](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/finding_max_in_the_numbers)
+* [Infix to Postfix](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/infix_to_postfix)
+* [Match Case](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/match_case)
+* [Temperature Celsius to F and K](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/temperature%20celsius%20to%20f%20and%20k)
+* [Text Analyzer](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/text_analyzer)
 
 
 
-## 📋 Table of Contents
-
-1. [Sorting Algorithms](#sorting-algorithms)
-2. [Searching Algorithms](#searching-algorithms)
-3. [Data Structures](#data-structures)
-4. [Graph Algorithms](#graph-algorithms)
-5. [Getting Started](#getting-started)
-6. [Contributing](#contributing)
-
----
-
-## 🗂️ Categories
-
-### Sorting Algorithms
-Implementations of various sorting techniques to organize data efficiently.
-* `bubble_sort.py`: Simple comparison-based sort.
-* `insertion_sort.py`: Builds the sorted array one item at a time.
-* `merge_sort.py`: Divide and conquer algorithm ($O(n \log n)$).
-* `quick_sort.py`: Efficient, pivot-based sorting algorithm.
-
-### Searching Algorithms
-Techniques for retrieving information stored within data structures.
-* `linear_search.py`: Sequential search over all items.
-* `binary_search.py`: Efficient search on a sorted array ($O(\log n)$).
-
-### Data Structures
-Fundamental ways to store and organize data.
-* `linked_list.py`: Singly and doubly linked lists.
-* `stack.py`: Last-In-First-Out (LIFO) structure.
-* `queue.py`: First-In-First-Out (FIFO) structure.
-* `binary_search_tree.py`: Node-based binary tree data structure.
-
-### Graph Algorithms
-Algorithms for traversing and analyzing graphs.
-* `bfs.py`: Breadth-First Search traversal.
-* `dfs.py`: Depth-First Search traversal.
-* `dijkstra.py`: Finding the shortest path between nodes.
 
 ---
 
