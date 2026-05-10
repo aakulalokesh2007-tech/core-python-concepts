@@ -1,3 +1,16 @@
+📂 Project Menu
+
+Click on any of the projects below to view the code:
+
+1. [QR_Code_Generator](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/pro-tips/QR_Code_Genarater)
+2. [System Shutdown Script](ShutDowning_a_System/)
+3. [Text Animation](Txt_animation/)
+4. [Update a Dictionary](Update_a_Dictionary/)
+5. [Find Country with Phone Number](find%20country%20with%20phone%20number/)
+6. [Sum of Digits](sum%20of%20digits/)
+7. [Walrus Operator](walrus_operator/)
+
+
 # 🐍 Python Pro Tips & Snippets
 
 Welcome to my collection of Python pro tips! This repository is a growing library of clever tricks, advanced features, and concise scripts designed to help write cleaner, more "Pythonic" code. 
@@ -14,17 +27,7 @@ To test any of these snippets on your own machine, simply clone the repo and run
 
 
 
-📂 Project Menu
 
-Click on any of the projects below to view the code:
-
-1. [QR_Code_Generator](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/pro-tips/QR_Code_Genarater)
-2. [System Shutdown Script](ShutDowning_a_System/)
-3. [Text Animation](Txt_animation/)
-4. [Update a Dictionary](Update_a_Dictionary/)
-5. [Find Country with Phone Number](find%20country%20with%20phone%20number/)
-6. [Sum of Digits](sum%20of%20digits/)
-7. [Walrus Operator](walrus_operator/)
 
 
 
