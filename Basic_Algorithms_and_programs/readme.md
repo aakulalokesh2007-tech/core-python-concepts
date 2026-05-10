@@ -12,7 +12,7 @@ Redirector Link
 * [Bubble Sort](./bubble_sort)
 * [Decimal to Binary Converter](./Decimal_To_Binary)
 * [File Handling](./File_Handling)
-* ([./The Prime Number Checker.](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/The%20Prime%20Number%20Checker.))
+* [./The Prime Number Checker.](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/The%20Prime%20Number%20Checker.)
 * [Binary Search in Lists](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/binary_search_in_Lists)
 * [Count Occurrences](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/count_occurrences)
 * [Finding Max in Numbers](https://github.com/aakulalokesh2007-tech/core-python-concepts/tree/main/Basic_Algorithms_and_programs/finding_max_in_the_numbers)
