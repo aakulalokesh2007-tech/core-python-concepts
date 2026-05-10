@@ -1,3 +1,9 @@
+#INDEX 🗂
+* 1.[Diamond_Shape](Diamond_Shape)
+* 2.[Star_Pyramid](Star_Pyramid)
+* 3.[reverse_alphabet_pattern](reverse_alphabet_pattern)
+
+
 # 🌟 Python Pattern Programs
 
 Welcome to the **Pattern** folder! This collection contains various Python scripts dedicated to printing different geometric shapes, numbers, and star (`*`) patterns. 
@@ -13,7 +19,4 @@ Inside this folder, you will find scripts that generate popular shapes such as:
 * Number & Alphabet Grids
 
 
-#INDEX 🗂
-* 1.[Diamond_Shape](Diamond_Shape)
-* 2.[Star_Pyramid](Star_Pyramid)
-* 3.[reverse_alphabet_pattern](reverse_alphabet_pattern)
+
