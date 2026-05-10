@@ -4,6 +4,15 @@ A comprehensive collection of standard computer science algorithms and data stru
 
 ---
 
+
+Redirector Link 
+* [Binary to Decimal Converter](./Binary%20to%20Decimal%20Converter)
+* [Fibonacci Series](./Fibnocci_Series)
+* [Grade Checker](./Grade%20Checker)
+* [Bubble Sort](./bubble_sort)
+
+
+
 ## 📋 Table of Contents
 
 1. [Sorting Algorithms](#sorting-algorithms)
