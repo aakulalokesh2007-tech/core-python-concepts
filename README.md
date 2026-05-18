@@ -12,5 +12,21 @@ The goal of this repository is to track my progress and serve as a quick-referen
 
 
 
+## 🧠 Core Fundamentals & Logic Modules
+
+| Core Concept Folder | Type | Description |
+| :--- | :--- | :--- |
+| 🔢 [Basic_Algorithms_and_programs](./Basic_Algorithms_and_programs) | Fundamentals | Foundational scripts covering basic programming algorithms and logic blocks. |
+| 🛡️ [Exception_Handling](./Exception_Handling) | Core Python | Bulletproofing code using robust Try, Except, Else, and Finally blocks. |
+| 📁 [File_handling](./File_handling) | Data Streams | Comprehensive examples of Text, CSV, and Binary file read/write operations. |
+| 🗂️ [List_Manipulations](./List_Manipulations) | Data Structures | Methods, slicing techniques, and optimizations for working with Python lists. |
+| 📐 [Patterns](./Patterns) | Logic / Loops | Star, number, and string geometric patterns using nested looping mechanics. |
+| 💡 [pro-tips](./pro-tips) | Best Practices | A curated collection of developer reference guides and problem-solving tips. |
+
+---
+
+
+
+
 ---
 *Continuously learning, building, and refactoring.*
